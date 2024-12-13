@@ -1,4 +1,4 @@
-# Project: Secure and Efficient Analysis of Global Health Data
+# Secure and Efficient Analysis of Global Health Data
 
 ## Introduction
 
@@ -20,7 +20,7 @@ The workflow leverages Google Cloud Platform (GCP) services and Apache Airflow t
 
 
 ### Airflow DAG Graph
-
+![Alt text](/Dag_graph.png)
 
 ## Documentation
 
